@@ -11,7 +11,7 @@ pipeline {
    
             steps {
 
-                echo "Master Branch"
+                echo "fix-123 Branch"
             }
         }
     }
